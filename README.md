@@ -33,7 +33,8 @@ print("Square root of the number:",sq(a))
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![2a](https://user-images.githubusercontent.com/118680361/234809707-83206bb4-3a53-4890-9adf-500da28afcca.png)
+
 
 
 ## Result:
